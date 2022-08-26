@@ -33,7 +33,7 @@ El manual de usuario realizado para este paquete, tiene como finalidad presentar
 
 ## Manual Técnico
 
-El manual técnico realizado para esta aplicación, tiene como finalidad presentar el proceso de instalación para la librería y sus distintas dependencias. El manual técnico se encuentra disponible en la siguiente dirección : Falta
+El manual técnico realizado para esta aplicación, tiene como finalidad presentar el proceso de instalación para la librería y sus distintas dependencias. El manual técnico se encuentra disponible en la siguiente dirección : https://github.com/Parall-UD/satellite_images_fusion/blob/main/Handbooks/ManualTecnico_satellite-images-fusion.docx.pdf
 
 ## Especificación de Requisitos de Software
 Este documento es una Especificación de Requisitos Software (ERS) para la librería llamada “Sallfus”. Esta especificación se ha estructurado basándose en las directrices dadas por el estándar IEEE Práctica Recomendada para Especificaciones de Requisitos Software ANSI/IEEE 830, 1998. Este documento se encuentra disponible en la siguiente dirección : Falta
