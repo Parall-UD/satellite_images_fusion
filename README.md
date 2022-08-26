@@ -29,7 +29,7 @@ En este orden de ideas, al implementar los algoritmos de fusión de imágenes sa
 
 ## Manual de Usuario
 
-El manual de usuario realizado para este paquete, tiene como finalidad presentar la interacción paso a paso entre el usuario y sus distintas funcionalidades. El manual de usuario se encuentra disponible en la siguiente dirección : Falta
+El manual de usuario realizado para este paquete, tiene como finalidad presentar la interacción paso a paso entre el usuario y sus distintas funcionalidades. El manual de usuario se encuentra disponible en la siguiente dirección : https://github.com/Parall-UD/satellite_images_fusion/blob/main/Handbooks/ManualUsuario_satellite-images-fusion.docx.pdf
 
 ## Manual Técnico
 
